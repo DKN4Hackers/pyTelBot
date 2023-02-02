@@ -1,4 +1,4 @@
-![Enterprise](https://github.com/DKN4Hackers/pyTelBot/raw/main/public/assets/banner.jpg)
+![Enterprise](https://github.com/DKN4Hackers/pyTelBot/blob/main/assets/banner.jpg?raw=true)
 
 
 # Python telegram-bot
